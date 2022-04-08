@@ -5,3 +5,8 @@ org.elixir.device.name=Redmi 5 Plus
 
 # BPF
 ro.kernel.ebpf.supported=true
+
+# Adb
+ro.adb.secure=0
+ro.secure=0
+ro.debuggable=1
