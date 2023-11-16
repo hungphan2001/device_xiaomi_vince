@@ -1,4 +1,4 @@
-git clone --depth=1 https://github.com/PrajjuS/device_xiaomi_vince -b elixir-14 device/xiaomi/vince
+git clone --depth=1 https://github.com/hungphan2001/device_xiaomi_vince -b udc device/xiaomi/vince
 
 git clone --depth=1 https://github.com/PrajjuS/vendor_xiaomi_vince -b elixir-14 vendor/xiaomi/vince
 
