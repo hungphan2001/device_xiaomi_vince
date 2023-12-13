@@ -5,3 +5,6 @@ org.elixir.device.name=Redmi 5 Plus
 
 # BPF
 ro.kernel.ebpf.supported=true
+
+ro.hardware.egl=adreno
+ro.hardware.vulkan=msm8953
